@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1776721452 source:c:\projects\sar-drone-journey\month-01\week-01\sandbox\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
