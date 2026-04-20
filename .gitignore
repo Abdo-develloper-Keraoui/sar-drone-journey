@@ -1,0 +1,27 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Code::Blocks project files
+*.cbp
+*.depend
+*.layout
+
+# Code::Blocks build directories
+bin/
+obj/
+Debug/
+Release/
+
+# Other IDE files (optional)
+*.user
+*.workspace
+
+# Backup files
+*~
+*.swp
