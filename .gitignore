@@ -73,3 +73,22 @@ build/
 # Valgrind
 # =============================================================================
 vgcore.*
+
+
+
+
+# =============================================================================
+# To not stage binary files like the ones created by linux operating system that
+# don't have the .o extension, i resolute to the ignoring everything in the code 
+# folder and then un-ignoring only the correct files like .c and .h and .md
+# =============================================================================
+
+
+# Recursively ignore everything inside month-*/week-*/**
+month-*/week-*/**/*
+# Re‑allow directories so Git can look inside them
+!month-*/week-*/**/
+# Re‑include the file types you want to track
+!month-*/week-*/**/*.c
+!month-*/week-*/**/*.h
+!month-*/week-*/**/*.md
