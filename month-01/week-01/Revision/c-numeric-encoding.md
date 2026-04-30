@@ -277,3 +277,9 @@ Layout: 1 sign bit | 11 exponent bits | 52 fraction bits.
   - **Extremes** are simply the limits of the 2‑digit exponent: min = \( 1\times10^{-99} \), max = \( 9.999999999\times10^{99} \).
 
 **Comparing self‑derived values with the actual output** – the numbers we calculated from first principles exactly match the `FLT_MIN`, `FLT_MAX`, `DBL_MIN`, `DBL_MAX` your program printed (within rounding of the printf `%e` format).
+
+
+
+
+**Why BCD for a calculator?**  
+BCD stores each decimal digit directly, so values like `0.1` are exact. This avoids the tiny rounding errors that occur in IEEE 754 binary floats, where `0.1 + 0.2` might produce `0.30000000000000004`. For a handheld calculator used with money, percentages, or school arithmetic, BCD gives the exact decimal results a human expects—no binary surprises.
