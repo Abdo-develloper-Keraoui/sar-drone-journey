@@ -10,9 +10,10 @@ int main(void)
     /*
     //ex2:
     printf("Hello, World!\c"); ----> this prints the c char after the \ char, so it is not a special char at all 
+    printf("Hello, World!\\c\n");
     */
-
     
-
+     
+ 
     
 }

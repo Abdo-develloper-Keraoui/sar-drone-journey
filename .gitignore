@@ -92,3 +92,10 @@ month-*/week-*/**/*
 !month-*/week-*/**/*.c
 !month-*/week-*/**/*.h
 !month-*/week-*/**/*.md
+
+# Ignore everything inside any sandbox folder, anywhere
+**/sandbox/**/*
+!**/sandbox/**/
+!**/sandbox/**/*.c
+!**/sandbox/**/*.h
+!**/sandbox/**/*.md
