@@ -1,0 +1,42 @@
+.
+├── README.md
+├── currentFilesTree.txt
+├── daily-log.md
+├── guidance
+│   └── how-to-study-from-books.md
+└── month-01
+    ├── sandbox
+    │   ├── HelloWorld
+    │   │   ├── helloWorld.c
+    │   │   └── main.c
+    │   ├── hello
+    │   ├── myFirstProgram
+    │   ├── myFirstProgram.c
+    │   ├── testTypesRanges
+    │   └── testTypesRanges.c
+    └── week-01
+        ├── Revision
+        │   ├── c-numeric-encoding.md
+        │   ├── order-of-operations.md
+        │   ├── printf-format-cheatsheet.md
+        │   └── summary-of-fahrenheit-converter.md
+        ├── ch01
+        │   └── subCh-02
+        │       ├── ex01-03
+        │       ├── ex01-03.c
+        │       ├── ex01-04
+        │       ├── ex01-04.c
+        │       ├── fahrenheit-float
+        │       ├── fahrenheit-float-from-memory
+        │       ├── fahrenheit-float-from-memory.c
+        │       ├── fahrenheit-float.c
+        │       ├── fahrenheit-int
+        │       └── fahrenheit-int.c
+        ├── ex1-8
+        ├── ex1-8.c
+        ├── fahrenheit
+        ├── fahrenheit.c
+        ├── hello
+        └── hello.c
+
+9 directories, 31 files
