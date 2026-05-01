@@ -92,6 +92,7 @@ month-*/week-*/**/*
 !month-*/week-*/**/*.c
 !month-*/week-*/**/*.h
 !month-*/week-*/**/*.md
+!month-*/week-*/**/*.pdf
 
 # Ignore everything inside any sandbox folder, anywhere
 **/sandbox/**/*
@@ -99,3 +100,4 @@ month-*/week-*/**/*
 !**/sandbox/**/*.c
 !**/sandbox/**/*.h
 !**/sandbox/**/*.md
+!**/sandbox/**/*.pdf
