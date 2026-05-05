@@ -3,12 +3,15 @@
 ├── currentFilesTree.txt
 ├── daily-log.md
 ├── guidance
-│   └── how-to-study-from-books.md
+│   ├── how-to-study-from-books.md
+│   └── on-getting-sidetracked.md
 └── month-01
     ├── sandbox
     │   ├── HelloWorld
     │   │   ├── helloWorld.c
     │   │   └── main.c
+    │   ├── celsius-fahrenheit-float
+    │   ├── celsius-fahrenheit-float.c
     │   ├── hello
     │   ├── myFirstProgram
     │   ├── myFirstProgram.c
@@ -17,21 +20,32 @@
     └── week-01
         ├── Revision
         │   ├── c-numeric-encoding.md
+        │   ├── floating-point-accumulation-pitfall.md
+        │   ├── for-statement.md
         │   ├── order-of-operations.md
         │   ├── printf-format-cheatsheet.md
-        │   └── summary-of-fahrenheit-converter.md
+        │   ├── summary-of-fahrenheit-converter.md
+        │   ├── symbolic-constants.md
+        │   └── what-every-computer-scientist-should-know-about-floating-point-numbers.pdf
         ├── ch01
-        │   └── subCh-02
-        │       ├── ex01-03
-        │       ├── ex01-03.c
-        │       ├── ex01-04
-        │       ├── ex01-04.c
-        │       ├── fahrenheit-float
-        │       ├── fahrenheit-float-from-memory
-        │       ├── fahrenheit-float-from-memory.c
-        │       ├── fahrenheit-float.c
-        │       ├── fahrenheit-int
-        │       └── fahrenheit-int.c
+        │   ├── fahr-celsius-cenverter-ch-04.c
+        │   ├── subCh-02
+        │   │   ├── ex01-03
+        │   │   ├── ex01-03.c
+        │   │   ├── ex01-04
+        │   │   ├── ex01-04.c
+        │   │   ├── fahrenheit-float
+        │   │   ├── fahrenheit-float-from-memory
+        │   │   ├── fahrenheit-float-from-memory.c
+        │   │   ├── fahrenheit-float.c
+        │   │   ├── fahrenheit-int
+        │   │   └── fahrenheit-int.c
+        │   ├── subCh-03
+        │   │   ├── ex01-05
+        │   │   ├── ex01-05.c
+        │   │   ├── for-loop-conversion-fahr-celsius-int
+        │   │   └── for-loop-conversion-fahr-celsius-int.c
+        │   └── subCh-05
         ├── ex1-8
         ├── ex1-8.c
         ├── fahrenheit
@@ -39,4 +53,4 @@
         ├── hello
         └── hello.c
 
-9 directories, 31 files
+11 directories, 43 files

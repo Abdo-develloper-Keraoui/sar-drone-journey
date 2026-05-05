@@ -16,13 +16,13 @@ int main(void) {
 	int counter = 0;
 	printf("Celsius\tFahr\n");
 
-	while(celsius <= upper) {
+	while(celsius <= upper + 1e-4) //1e-4 so this error eats up the accumulating error
+	{
 		counter++;
 		fahr = (9.0/5.0) * celsius + 32.0; 
 		printf("%3.2f\t%6.2f\n", celsius, fahr);
 		celsius += step;
 	}
-	printf("%f\n", celsius);
 	printf("%d\n", counter);
 
 	return 0;

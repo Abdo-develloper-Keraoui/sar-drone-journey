@@ -53,3 +53,19 @@ keyboard.
 - Chapter 1 is denser than it looks. Need to keep moving through it before old concepts go cold.
 
 **Tomorrow:** Section 1.3 — the `for` loop version of the Fahrenheit table. Book closed before keyboard. Pen and paper for the structure first.
+
+### Day 3 — [05/05/2026]
+
+**Studied:** Khan Academy Algebra 1 Unit 4 (linear equations). 
+
+**Done:**
+- ALG-04 done. did the whole quizzes and the final unit test, revisited the concepts of slope and linear equations
+
+**Confused by:**
+- first time I did english Masa2il, so i tried to understand the context and then i applied the formulas that I already knew. It was great success.
+
+
+**Tomorrow:**. Book closed before keyboard. Pen and paper for the structure first.
+
+
+ Section 1.5 — the `File copying` thingys.
